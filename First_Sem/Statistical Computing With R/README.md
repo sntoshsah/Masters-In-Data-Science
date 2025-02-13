@@ -12,3 +12,13 @@ Course Contents:
 
 For Detailed:  
 - [MDS Course Structure And Syllabus](../MDS-Course-Structure%20and%20Syllabus.pdf)
+
+
+Learning Resources:
+- [R For Everyone](https://www.jaredlander.com/r-for-everyone/)
+- [R For Everyone 2nd Ed.](https://bookdown.org/swen/R_for_Everyone/)
+
+
+Tools:
+- [Install R](https://cran.r-project.org/)
+- [Install R-studio](https://posit.co/download/rstudio-desktop/)
