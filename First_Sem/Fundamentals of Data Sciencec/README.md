@@ -9,4 +9,4 @@ Course Contents:
 6. Ethical Issues in Data Science
 
 For Detailed:  
-- [MDS Course Structure And Syllabus](First_Sem/MDS-Course-Structure%20and%20Syllabus.pdf)
+- [MDS Course Structure And Syllabus](../MDS-Course-Structure%20and%20Syllabus.pdf)
