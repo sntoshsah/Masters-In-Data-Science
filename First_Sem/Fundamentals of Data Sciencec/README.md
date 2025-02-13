@@ -8,5 +8,5 @@ Course Contents:
 5. Introduction to Big Data
 6. Ethical Issues in Data Science
 
-For Detailed : 
-- [MDS Course Structure And Syllabus](First_Sem/MDS-Course-Structure%20 and%20Syllabus.pdf)
+For Detailed:  
+- [MDS Course Structure And Syllabus](First_Sem/MDS-Course-Structure%20and%20Syllabus.pdf)
