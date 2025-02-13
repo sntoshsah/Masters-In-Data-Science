@@ -8,3 +8,7 @@ Course Content:
 5. Transaction Processing and Concurrency Control
 6. Trends in Database Technology
 7. Advanced Topic
+
+
+For Detailed:  
+- [MDS Course Structure And Syllabus](../MDS-Course-Structure%20and%20Syllabus.pdf)

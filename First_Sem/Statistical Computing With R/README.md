@@ -7,3 +7,8 @@ Course Contents:
 4. R S/W for Supervised Learning
 5. R S/W for Unsupervised Learning
 6. R S/W for Communication
+
+
+
+For Detailed:  
+- [MDS Course Structure And Syllabus](../MDS-Course-Structure%20and%20Syllabus.pdf)
