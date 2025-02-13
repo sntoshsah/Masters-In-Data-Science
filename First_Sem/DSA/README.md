@@ -9,3 +9,7 @@ Course Contents:
 6. Sorting
 7. Searching and Hashing
 8. Trees and Graphs
+
+
+For Detailed:  
+- [MDS Course Structure And Syllabus](../MDS-Course-Structure%20and%20Syllabus.pdf)
