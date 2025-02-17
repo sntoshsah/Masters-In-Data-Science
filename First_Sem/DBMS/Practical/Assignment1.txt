@@ -1,0 +1,6 @@
+1. Draw ERD of the following Scenerio:
+A kite festival is being organized by Data Science Department in TU ground.
+The Participants can register for the festival by paying Rs.500.
+The Participants need to bring required accessories by themselves.
+Two judges will be assigned for the festival to declare the winner according to participants's performance.
+The winner will get a scholorship to study data Science for the whole course.
