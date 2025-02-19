@@ -17,6 +17,8 @@ For Detailed:
 Learning Resources:
 - [R For Everyone](https://www.jaredlander.com/r-for-everyone/)
 - [R For Everyone 2nd Ed.](https://bookdown.org/swen/R_for_Everyone/)
+- [Pipes in R](https://www.datacamp.com/tutorial/pipe-r-tutorial)
+- [Data Reshaping](https://ptgmedia.pearsoncmg.com/images/9780321888037/samplepages/0321888030.pdf)
 
 
 Tools:
