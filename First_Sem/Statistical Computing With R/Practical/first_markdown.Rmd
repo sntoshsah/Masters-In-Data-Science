@@ -30,3 +30,19 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+
+
+# Session 1 code 
+## Simple Data Entry in R
+
+data <-c(1,2,3,4,5,6,7,8,9)
+data
+
+text<-c('a','b','c','d','e','f')
+text
+text2<-c(a,b,c,d,e,f)
+text2
+data2<-cbind(data,text)
+data2
+
